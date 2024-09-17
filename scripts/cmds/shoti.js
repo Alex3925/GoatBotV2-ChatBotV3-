@@ -1,4 +1,4 @@
-module.exports = {
+module.exports.config = {
   name: "shoti",
   description: "Generate a random TikTok video.",
   version: "1.0.0",
